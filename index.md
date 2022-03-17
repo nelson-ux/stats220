@@ -3,7 +3,7 @@
 
 My three main inspiration for making this meme are:
 - as a stats major i know a lots of math majors that dislike stats!!!
-- and many of math major think stats are a lot easier!!(however im not supporting this argument) 
+- and many of math major think stats are a lot easier!!(*however im not supporting this argument*) 
 - I think the combination of handshake & handwash is really funny! So i used this idea
 ### Here's the Meme!
 []!(my_Meme.png)
