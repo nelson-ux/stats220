@@ -2,7 +2,7 @@
 ## Made by kzha298(for stats220)
 
 My three main inspiration for making this meme are:
-- as a stats major i know a lots of math majors that dislike stats!!!
+- as a stats major i know a lots of math majors that don't take Statistics as 'THE MATH'. 
 - and many of math major think stats are a lot easier!!(*however im not supporting this argument*) 
 - I think the combination of handshake & handwash is really funny! So i used this idea to create my own meme
 ### Here's the Meme!
