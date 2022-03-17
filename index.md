@@ -1,5 +1,5 @@
 # My Statistics meme! 
-### made by kzha298
+## Made by kzha298(for stats220)
 
 My three main inspiration for making this meme are:
 - as a stats major i know a lots of math majors that dislike stats!!!
