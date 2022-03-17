@@ -44,3 +44,4 @@ my_meme <- image_append(c(col_1, col_2), stack = FALSE)
 image_write(my_meme, 'my_Meme.png')
 
 ```
+*let me know what you think about my Meme! leave a comment or use my code above to create your own Meme!* 
