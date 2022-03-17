@@ -12,12 +12,15 @@ My three main inspiration for making this meme are:
 The R Package that i used is [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
 And the following are my code to make this Meme, feel free to copy and paste! 
 
-'#reading two pictures from internet'
-'handshake <- image_read(path = 'https://www.verywellmind.com/thmb/0ZUxcaqPRokMIzKRi3Wh0Z-BDdQ=/2692x2692/smart/filters:no_upscale()/business-people-shaking-hands-outside-of-office-building-521813417-5954fdc33df78cdc2970d5ac.jpg')%>%'
-  'image_scale(400)'
 
-'handwash <- image_read(path = 'https://images.newindianexpress.com/uploads/user/imagelibrary/2020/4/8/w900X450/handwashing_.jpg?w=400&dpr=2.6')%>%
-  image_scale(400)'
+```r
+#reading two pictures from internet
+
+handshake <- image_read(path = 'https://www.verywellmind.com/thmb/0ZUxcaqPRokMIzKRi3Wh0Z-BDdQ=/2692x2692/smart/filters:no_upscale()/business-people-shaking-hands-outside-of-office-building-521813417-5954fdc33df78cdc2970d5ac.jpg')%>%
+  image_scale(400)
+
+handwash <- image_read(path = 'https://images.newindianexpress.com/uploads/user/imagelibrary/2020/4/8/w900X450/handwashing_.jpg?w=400&dpr=2.6')%>%
+  image_scale(400)
 
 #first column vector for our meme
 col_1 <- image_append(c(handshake, handwash), stack = TRUE)
@@ -40,3 +43,4 @@ col_2 <- image_append(c(box.1, box.2), stack = TRUE)
 my_meme <- image_append(c(col_1, col_2), stack = FALSE)
 image_write(my_meme, 'my_Meme.png')
 
+```
