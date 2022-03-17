@@ -25,7 +25,7 @@ handwash <- image_read(path = 'https://images.newindianexpress.com/uploads/user/
 #first column vector for our meme
 col_1 <- image_append(c(handshake, handwash), stack = TRUE)
 
-# creating two images with text for our meme
+# creating two blank with text for our meme
 box.1 <- image_blank(height = 400, width = 400, color = 'black')%>%
   image_annotate(text = '\"So you do math as well?\"\n \"Yes, im a statistician\"',
                  size = 30, 
