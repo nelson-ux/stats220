@@ -6,7 +6,8 @@ My three main inspiration for making this meme are:
 - and many of math major think stats are a lot easier!!(*however im not supporting this argument*) 
 - I think the combination of handshake & handwash is really funny! So i used this idea
 ### Here's the Meme!
-[]!(my_Meme.png)
+
+![](my_Meme.png)
 
 
 The R Package that i used is [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
