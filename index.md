@@ -10,8 +10,7 @@ My three main inspiration for making this meme are:
 
 
 The R Package that i used is [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
-And the following are my code to make this Meme, feel free to copy and paste! 
-
+And the following are my code to make this Meme, feel free to copy and paste!
 
 ```r
 #reading two pictures from internet
