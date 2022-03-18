@@ -11,7 +11,7 @@ My three main inspiration for making this meme are:
 
 
 The R Package that i used is [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html).
-And the following are my code to make this Meme, feel free to copy and paste!
+And the following are my code to make this Meme, feel free to copy and paste! let me know what you think about my Meme! leave a comment or use my code above to create your own Meme!
 
 ```r
 #reading two pictures from internet
@@ -44,4 +44,4 @@ my_meme <- image_append(c(col_1, col_2), stack = FALSE)
 image_write(my_meme, 'my_Meme.png')
 
 ```
-*let me know what you think about my Meme! leave a comment or use my code above to create your own Meme!* 
+
